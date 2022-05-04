@@ -1,0 +1,34 @@
+_repo: Victorian-Poetry_67894
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Drinkwater, John
+    birthdate: 1882
+    deathdate: 1937
+    gutenberg_agent_id: '1820'
+    url: http://www.gutenberg.org/2009/agents/1820
+    wikipedia: https://en.wikipedia.org/wiki/John_Drinkwater_(playwright)
+description: ''
+gutenberg_issued: '2022-04-21'
+identifiers:
+  gutenberg: '67894'
+  lccn: '24009113'
+language: en
+pgterms:marc904: https://archive.org/details/victorianpoetry00drin/page/n7/mode/2up
+pgterms:marc905: 20201026222606drinkwater
+pgterms:marc906: '1924'
+pgterms:marc907: US
+production_note: Charlene Taylor, Karin Spence and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive/American Libraries.)
+publication_note: United States :George H. Doran Company,1924.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Great Britain -- History -- Victoria, 1837-1901'
+- !lcsh 'English poetry -- 19th century -- History and criticism'
+- GITenberg
+title: Victorian Poetry
+url: http://www.gutenberg.org/ebooks/67894
